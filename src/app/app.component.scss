@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+/*Шрифты из сайта: https://fonts.google.com/specimen */
+.main{
+  color: rgba(15, 20, 30, 0.77);
+  font-size: 16px;
+  font-family: 'Rubik', sans-serif;
+}
+.main-container{
+  max-width: 80%;
+  min-width: 1000px;
+  margin: auto;
+}
+
+.content-block {
+  height: 100%;
+  background: rgba(211, 211, 211, 0.61);
+  padding: 10px;
+}
